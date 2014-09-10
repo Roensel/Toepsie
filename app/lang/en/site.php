@@ -25,7 +25,7 @@ return [
   "cheatsheet_teachers" => "Teachers",
   "cheatsheet_locals" => "Class-rooms",
   "choose_lang" => "Choose language:",
-  "footer_credits" => "Experienced coder? Help us on <a href=\"https://github.com/Roensel/Toepsie\">Github</a>!",
+  "footer_credits" => "Feel free to drop your questions, remarks or ice-cold beer <a href=\"mailto:bofh@toepsie.nl\">in an e-mail!</a>!",
   "days" => [
     1 => "Monday",
     2 => "Tuesday",

@@ -25,7 +25,7 @@ return [
   "cheatsheet_teachers" => "Docenten",
   "cheatsheet_locals" => "Lokalen",
   "choose_lang" => "Kies taal:",
-  "footer_credits" => "Ervaren coder? Help ons mee via <a href=\"https://github.com/Roensel/Toepsie\">Github</a>!",
+  "footer_credits" => "Problemen, opmerkingen of vragen? <a href=\"mailto:bofh@toepsie.nl\">Mail ze naar Jeroen!</a>!",
   "days" => [
     1 => "Maandag",
     2 => "Dinsdag",
