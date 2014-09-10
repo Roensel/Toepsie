@@ -26,7 +26,7 @@
                      $$$                                                          
                     .$$.                             Your schedule, done right! -->
 
-  <link rel="stylesheet" href="/css/app.css?b5321a">
+  <link rel="stylesheet" href="/css/app.css?320230">
 
   <script src="/js/pace.js?e9f4e5" data-pace-options='{ "restartOnRequestAfter": false }'></script>
 
